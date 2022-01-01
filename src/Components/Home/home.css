@@ -1,0 +1,20 @@
+.home {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 200px auto;
+}
+ button {
+  border-radius: 16px;
+  padding: 7px;
+  width: 400px;
+  background-color: gold;
+  color: #000;
+  font-weight: 700;
+  font-size: 20px;
+  cursor: pointer;
+  outline: none;
+}
+button:hover {
+  background-color: aliceblue;
+}
